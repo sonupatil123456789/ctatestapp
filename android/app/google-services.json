@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322705506357",
+    "firebase_url": "https://shreyasprofile-b314a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shreyasprofile-b314a",
+    "storage_bucket": "shreyasprofile-b314a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322705506357:android:6125206ef19f8d4d3db17c",
+        "android_client_info": {
+          "package_name": "com.example.ctsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322705506357-bfn33itdcqqi57us11pukmmndlblo0ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NtDQnVJsfBmgjZeAg0Pm2dARw6GyWlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322705506357-bfn33itdcqqi57us11pukmmndlblo0ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
